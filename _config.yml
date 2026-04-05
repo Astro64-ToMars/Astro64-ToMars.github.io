@@ -1,3 +1,11 @@
 title: "Achyuth Madhu | Computational Physics"
 description: "Physics, simulation, AI, and Rockets"
 theme: minima
+
+navigation:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+  - title: Posts
+    url: /posts/
